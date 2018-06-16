@@ -1,0 +1,6 @@
+[submodule "gnina"]
+	path = gnina
+	url = https://github.com/gnina/gnina.git
+[submodule "caffe-tools"]
+	path = caffe-tools
+	url = https://github.com/davidstutz/caffe-tools.git
